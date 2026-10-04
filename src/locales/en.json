@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core survival loop first: paddling, diving, stamina and breath, foraging, and building your first den before you head downstream."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Exploration & Navigation",
+          "description": "Read river currents and eddies, reveal the map region by region, and plan safe routes through every biome on the way home."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Collectibles & Items",
+          "description": "Track down river shells, pet rocks, shoreberries, and hidden trinkets, and learn which ones feed you and which ones upgrade your den."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Otterly Lost."
+          "title": "Co-op & Multiplayer",
+          "description": "Hold paws with a friend, share foraging runs, and split up to solve lever and sluice puzzles together on the same river."
         }
       ]
     },
@@ -66,237 +66,315 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "River Map",
+        "Shells & Items",
+        "Co-op Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Paddling, diving, stamina, foraging, and den building, everything you need for your first hour on the river.",
+          "href": "/guide/otterly-lost-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Full Walkthrough",
+          "description": "Chapter-by-chapter routes through all four river regions with puzzle solutions and hidden secrets.",
+          "href": "/guide/otterly-lost-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Shells Guide",
+          "description": "Every shell family, the best dive routes, and vendor exchanges for the river's main currency.",
+          "href": "/items/otterly-lost-shells"
+        },
+        {
+          "badge": "Popular",
+          "title": "Pet Rocks",
+          "description": "Locations, weight classes, and puzzle uses for every collectible pet rock in the game.",
+          "href": "/items/otterly-lost-pet-rocks"
+        },
+        {
+          "badge": "New",
+          "title": "Shoreberries",
+          "description": "Best foraging spots, recipes, and respawn cycles for stamina-boosting river berries.",
+          "href": "/items/otterly-lost-shoreberries"
+        },
+        {
+          "badge": "Popular",
+          "title": "Otterly Lost Map",
+          "description": "Regions, biomes, hidden paths, and map pins for faster river navigation.",
+          "href": "/mechanics/otterly-lost-map"
+        },
+        {
+          "badge": "New",
+          "title": "Swim Mechanics",
+          "description": "Paddling, diving, momentum, and advanced water tech for every current and rapid.",
+          "href": "/mechanics/otterly-lost-swim"
+        },
+        {
+          "badge": "Popular",
+          "title": "Characters & Friends",
+          "description": "Otto, the woodland bunny, and every animal companion you can rescue along the waterways.",
+          "href": "/characters/otterly-lost-friends"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Demo & Release",
+          "description": "Hands-on demo details, the expected release window, and platform availability.",
+          "href": "/release/otterly-lost-demo"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Otterly Lost?",
       "paragraphs": [
-        "Otterly Lost is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Otterly Lost is a cozy single-player adventure from Soulworks Interactive in which you play as Otto, a curious river otter trying to find his way back to his family raft. The journey is built around physics-driven swimming: you paddle downstream, dive beneath fallen logs, ride eddies, and slide down muddy banks instead of fighting through a combat system.",
+        "There are no health bars, timers, or game-over screens. If a current sweeps you off course, the river gently resets you to a calm pool nearby so you can try again at your own pace. Along the way you forage for shoreberries, crack open clams, collect river shells and pet rocks, befriend woodland animals, and build cozy dens across the Whispering Shallows, the Timber Dam, the Roaring Rapids, and the Sunken Estuary."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Soulworks Interactive"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam (PC)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Achievements",
+          "value": "20"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "User Reviews",
+          "value": "171"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "River Regions",
+          "value": "4"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Demo",
+          "value": "Free on Steam"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Otterly Lost Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master Otto's journey home with beginner guides, a full walkthrough, collectible routes, character profiles, map navigation, and achievement tips for every river region.",
       "modules": [
         {
           "order": 1,
-          "name": "Otterly Lost Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/otterly-lost-codes",
-          "displayType": "code-box",
+          "name": "Otterly Lost Beginner Guide",
+          "description": "Learn the core survival loop before you head downstream: paddling and diving, stamina and breath control, foraging for food, and building your first safe den.",
+          "href": "/guide/otterly-lost-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Start with the tutorial and learn surface paddling before you fight any current."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Watch your Stamina, Hunger, and Body Temperature while swimming and diving."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Drift downstream to save stamina, and rest in river eddies to refill your breath."
+            },
+            {
+              "label": "4",
+              "detail": "Forage clams, shellfish, and river weeds in shallow water before attempting deep dives."
+            },
+            {
+              "label": "5",
+              "detail": "Build a den on high, dry ground near calm water so you can sleep and save progress."
+            },
+            {
+              "label": "6",
+              "detail": "Avoid shoreline predators and current traps by reading white water early."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/otterly-lost-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Otterly Lost Walkthrough",
+          "description": "A complete chapter-by-chapter route through the story, covering the important quests, environmental puzzles, and hidden shortcuts that keep Otto moving toward home.",
+          "href": "/guide/otterly-lost-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Chapter 1: Whispering Shallows - learn the controls, forage your first food, and meet your first companions."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Chapter 2: The Timber Dam and Wetland Maze - solve log dams and sluice-gate buoyancy puzzles."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Chapter 3: Roaring Rapids and Canyon Flumes - ride fast currents and clear boulder hazards."
+            },
+            {
+              "label": "4",
+              "detail": "Chapter 4: Sunken Estuary and the Raft Reunion - finish the journey and reunite the raft."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/otterly-lost-tier-list",
-          "displayType": "tier-grid",
+          "name": "Otterly Lost Collectibles Guide",
+          "description": "Organizes every collectible in the game, from river shells and pet rocks to shoreberries and hidden trinkets, with the routes and biomes where each one appears.",
+          "href": "/items/otterly-lost-shells",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Shells",
+              "detail": "River shells are the main currency; dive near rocks and reed beds to gather them."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Pet Rocks",
+              "detail": "Collect weight-classed rocks from riverbeds and use them on pressure-plate puzzles."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Berries",
+              "detail": "Shoreberries restore stamina and can be cooked into snacks for long swims."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Trinkets",
+              "detail": "Hidden trinkets unlock den upgrades and trade deals with river critters."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/otterly-lost-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Otterly Lost Abilities Guide",
+          "description": "Explains Otto's movement abilities, tools, and upgrades, covering paddling, diving, object carrying, and the advanced water tech that opens new routes.",
+          "href": "/mechanics/otterly-lost-swim",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Paddling",
+              "detail": "Steer and build momentum; paddle downstream to travel fast without draining stamina."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Diving",
+              "detail": "Hold the dive key to reach sunken tools, clams, and hidden underwater tunnels."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Carry",
+              "detail": "Hold an object in your paws to weigh down pressure plates or crack open shellfish."
+            },
+            {
+              "label": "Bank Slide",
+              "detail": "Muddy banks work as high-speed slides between disconnected river branches."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/otterly-lost-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Otterly Lost Characters Guide",
+          "description": "Introduces Otto, the friendly creatures you meet, and the companions who join the journey, including their stories, rescue quests, and how they help you explore.",
+          "href": "/characters/otterly-lost-otto",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Otto",
+              "detail": "Otto is the playable river otter whose abilities and stamina define every route you take."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Bunny",
+              "detail": "The woodland rabbit is one of the first creatures you can befriend and rescue."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Friends",
+              "detail": "Companions open shortcuts, carry items, and help with lever and sluice puzzles."
+            },
+            {
+              "label": "Animals",
+              "detail": "Rescued river critters appear across biomes and assist with foraging and navigation."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/otterly-lost-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Otterly Lost Map Guide",
+          "description": "A navigation-focused module covering the major regions, biomes, hidden paths, and points of interest so you can plan a route instead of drifting blind.",
+          "href": "/mechanics/otterly-lost-map",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Whispering Shallows",
+              "detail": "Tutorial region with calm water, your first clams, and the easiest den sites."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Timber Dam",
+              "detail": "Log dam and wetland maze area where the buoyancy puzzles begin."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Roaring Rapids",
+              "detail": "Fast canyon section full of boulders, whirlpools, and current traps."
+            },
+            {
+              "label": "Sunken Estuary",
+              "detail": "Final river region with deep water, rare collectibles, and the raft reunion."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Otterly Lost Achievements Guide",
+          "description": "Lists the game's 20 Steam achievements and groups them by difficulty, so completionists know which unlocks happen naturally and which demand a focused run.",
+          "href": "/release/otterly-lost-steam",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Story milestones - earned automatically by finishing the four main chapters."
+            },
+            {
+              "label": "A",
+              "detail": "Exploration achievements - reveal every region and clear the map fog."
+            },
+            {
+              "label": "B",
+              "detail": "Collectible achievements - find all shells, pet rocks, and trinkets."
+            },
+            {
+              "label": "C",
+              "detail": "Challenge achievements - clear rapid runs and long dives without losing stamina."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Otterly Lost Updates Guide",
+          "description": "A news and update section covering the demo, official patches, release information, and developer announcements so you always know what changed on the river.",
+          "href": "/release/otterly-lost-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "Try the free vertical slice covering the Chapter 1 tutorial and prologue story."
+            },
+            {
+              "label": "Patches",
+              "detail": "Follow balance tweaks, bug fixes, and swimming physics improvements after launch."
+            },
+            {
+              "label": "Launch",
+              "detail": "Release windows, platform certification, and store page localization news."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Developer devlogs covering new biomes, co-op features, and accessibility options."
             }
           ]
         }
@@ -308,23 +386,27 @@
       "items": [
         {
           "question": "What is Otterly Lost?",
-          "answer": "Otterly Lost is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Otterly Lost is a cozy single-player adventure from Soulworks Interactive. You play as Otto, a river otter who gets separated from his family raft and must swim, dive, and forage his way home through four connected river regions."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Otterly Lost a combat game?",
+          "answer": "No. Otterly Lost has no combat, health bars, or permanent fail states. The challenge comes from reading currents, timing dives, and solving buoyancy and sluice-gate puzzles. If a current sweeps you off course, the river resets you to a calm pool nearby."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Can you play Otterly Lost in co-op?",
+          "answer": "Yes. Otterly Lost supports co-op river sessions where players hold paws to form a raft, share foraging runs, and split up for lever and sluice puzzles. The story campaign itself is designed as a focused single-player expedition."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are the main collectibles in Otterly Lost?",
+          "answer": "The main collectibles in Otterly Lost are river shells, pet rocks, shoreberries, and hidden trinkets. Shells act as currency, pet rocks solve pressure-plate puzzles, shoreberries restore stamina, and trinkets unlock den upgrades."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How long does Otterly Lost take to finish?",
+          "answer": "A relaxed first playthrough of Otterly Lost usually takes around 3 to 5 hours. Following a walkthrough can cut that to roughly 2 hours, while a full 100% collectible run typically spans about 6 hours."
+        },
+        {
+          "question": "Where can I play Otterly Lost?",
+          "answer": "Otterly Lost is available on Steam for PC, with a free demo covering the Chapter 1 tutorial. It runs well on the Steam Deck, and DRM-free storefronts such as GOG and itch.io are also good options for offline play."
         }
       ]
     },
