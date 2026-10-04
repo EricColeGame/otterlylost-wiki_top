@@ -18,7 +18,7 @@ export interface SiteConfig {
   defaultLocale: string;
 }
 
-export const siteConfig: SiteConfig = {
+export const siteConfig = {
   name: "Otterly Lost Wiki",
   shortName: "Otterly Lost",
   logoText: "OL",
@@ -35,4 +35,4 @@ export const siteConfig: SiteConfig = {
   },
   locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
-};
+} as const satisfies SiteConfig;
