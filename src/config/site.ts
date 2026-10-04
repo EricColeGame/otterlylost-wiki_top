@@ -25,10 +25,11 @@ export const siteConfig: SiteConfig = {
   tagline: "Guides, Achievements & Exploration",
   description: "Explore Otterly Lost Wiki with adventure guides, achievement tips, exploration details, collectibles, characters, and helpful resources for Otto's cozy sea otter journey.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://otterlylost-wiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://otterlylost-wiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@otterlylost-wiki.top",
   gameUrl: "https://store.steampowered.com/app/3861710/Otterly_Lost/",
   heroVideoId: "252_aes1OFw", // Otterly Lost | Demo Release Trailer
   social: {
+    discord: "https://steamcommunity.com/app/3861710/",
     twitter: "https://x.com/SoulworksInt",
     youtube: "https://www.youtube.com/watch?v=252_aes1OFw",
   },
