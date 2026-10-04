@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     twitter: "https://x.com/SoulworksInt",
     youtube: "https://www.youtube.com/watch?v=252_aes1OFw",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };

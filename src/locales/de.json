@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "Otterly Lost Wiki",
+    "shortName": "Otterly Lost",
+    "tagline": "Guides, Erfolge & Erkundung",
+    "description": "Erkunde das Otterly Lost Wiki mit Abenteuer-Guides, Erfolgstipps, Erkundungsdetails, Sammelobjekten, Charakteren und hilfreichen Ressourcen für Ottos gemütliche Reise als Seeotter.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "release": "Release",
+    "platforms": "Plattformen",
+    "mechanics": "Mechaniken",
+    "characters": "Charaktere",
+    "items": "Gegenstände",
+    "community": "Community",
+    "features": "Features"
+  },
+  "home": {
+    "meta": {
+      "title": "Otterly Lost Wiki – Guides, Erfolge & Erkundung",
+      "description": "Erkunde das Otterly Lost Wiki mit Abenteuer-Guides, Erfolgstipps, Erkundungsdetails, Sammelobjekten, Charakteren und hilfreichen Ressourcen für Ottos gemütliche Reise als Seeotter."
+    },
+    "hero": {
+      "eyebrow": "Gemütliches Seeotter-Abenteuer",
+      "title": "Otterly Lost Wiki",
+      "description": "Erlebe ein gemütliches, storygetriebenes Abenteuer als Otto, der Seeotter. Entdecke verborgene Orte, triff freundliche Tiere, löse leichte Rätsel, sammle Gegenstände und finde deinen Weg nach Hause durch wunderschöne Unterwasser- und Naturwelten.",
+      "stats": [
+        "171 Nutzerrezensionen",
+        "20 Erfolge verfügbar",
+        "0 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Erkundungs-Guide",
+      "tertiaryCta": "Erfolge-Guide",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Deine Otterly Lost Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Lerne zuerst die grundlegende Überlebensschleife: Paddeln, Tauchen, Ausdauer und Atem, Nahrungssuche und den Bau deines ersten Unterschlupfs, bevor du flussabwärts aufbrichst."
+        },
+        {
+          "number": "2",
+          "title": "Erkundung & Navigation",
+          "description": "Lies Strömungen und Wirbel, decke die Karte Region für Region auf und plane sichere Routen durch jedes Biom auf dem Weg nach Hause."
+        },
+        {
+          "number": "3",
+          "title": "Sammelobjekte & Gegenstände",
+          "description": "Spüre Flussmuscheln, Haustier-Steine, Küstenbeeren und versteckte Schmuckstücke auf und erfahre, welche dich nähren und welche deinen Bau verbessern."
+        },
+        {
+          "number": "4",
+          "title": "Koop & Multiplayer",
+          "description": "Haltet Pfote an Pfote mit einem Freund, teilt Sammeltouren und trennt euch, um Hebel- und Schleusenrätsel gemeinsam am selben Fluss zu lösen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Flusskarte",
+        "Muscheln & Gegenstände",
+        "Koop-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Paddeln, Tauchen, Ausdauer, Nahrungssuche und Baubau – alles, was du für deine erste Stunde am Fluss brauchst.",
+          "href": "/guide/otterly-lost-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Komplettlösung",
+          "description": "Kapitelweise Routen durch alle vier Flussregionen mit Rätsellösungen und versteckten Geheimnissen.",
+          "href": "/guide/otterly-lost-walkthrough"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Muscheln-Guide",
+          "description": "Jede Muschelfamilie, die besten Tauchrouten und Händlertausche für die Hauptwährung des Flusses.",
+          "href": "/items/otterly-lost-shells"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Haustier-Steine",
+          "description": "Fundorte, Gewichtsklassen und Rätselnutzung für jeden sammelbaren Haustier-Stein im Spiel.",
+          "href": "/items/otterly-lost-pet-rocks"
+        },
+        {
+          "badge": "Neu",
+          "title": "Küstenbeeren",
+          "description": "Beste Sammelplätze, Rezepte und Respawn-Zyklen für ausdauersteigernde Flussbeeren.",
+          "href": "/items/otterly-lost-shoreberries"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Otterly Lost Karte",
+          "description": "Regionen, Biome, versteckte Pfade und Kartenmarkierungen für schnellere Flussnavigation.",
+          "href": "/mechanics/otterly-lost-map"
+        },
+        {
+          "badge": "Neu",
+          "title": "Schwimm-Mechaniken",
+          "description": "Paddeln, Tauchen, Schwung und fortgeschrittene Wassertechnik für jede Strömung und jede Stromschnelle.",
+          "href": "/mechanics/otterly-lost-swim"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Charaktere & Freunde",
+          "description": "Otto, das Waldkaninchen und jeder tierische Begleiter, den du entlang der Wasserwege retten kannst.",
+          "href": "/characters/otterly-lost-friends"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Demo & Release",
+          "description": "Hands-on-Details zur Demo, das erwartete Release-Fenster und die Plattformverfügbarkeit.",
+          "href": "/release/otterly-lost-demo"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Otterly Lost?",
+      "paragraphs": [
+        "Otterly Lost ist ein gemütliches Singleplayer-Abenteuer von Soulworks Interactive, in dem du Otto spielst, einen neugierigen Flussotter, der den Weg zurück zu seinem Familienfloß sucht. Die Reise basiert auf physikgesteuertem Schwimmen: Du paddelst flussabwärts, tauchst unter umgestürzte Baumstämme, reitest Wirbel und rutschst schlammige Ufer hinunter, statt dich durch ein Kampfsystem zu kämpfen.",
+        "Es gibt keine Lebensbalken, Timer oder Game-Over-Bildschirme. Wenn dich eine Strömung vom Kurs reißt, setzt dich der Fluss sanft in einem ruhigen Becken in der Nähe ab, damit du es in deinem eigenen Tempo erneut versuchen kannst. Unterwegs sammelst du Küstenbeeren, knackst Muscheln, sammelst Flussmuscheln und Haustier-Steine, freundest dich mit Waldtieren an und baust gemütliche Baue in Whispering Shallows, am Timber Dam, in den Roaring Rapids und im Sunken Estuary."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Soulworks Interactive"
+        },
+        {
+          "label": "Plattform",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "Genre",
+          "value": "Gemütliches Abenteuer"
+        },
+        {
+          "label": "Erfolge",
+          "value": "20"
+        },
+        {
+          "label": "Nutzerrezensionen",
+          "value": "171"
+        },
+        {
+          "label": "Flussregionen",
+          "value": "4"
+        },
+        {
+          "label": "Demo",
+          "value": "Kostenlos auf Steam"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Otterly Lost Wiki erkunden",
+      "description": "Meistere Ottos Heimweg mit Anfänger-Guides, einer vollständigen Komplettlösung, Sammelrouten, Charakterprofilen, Kartennavigation und Erfolgstipps für jede Flussregion.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Otterly Lost Anfänger-Guide",
+          "description": "Lerne die grundlegende Überlebensschleife, bevor du flussabwärts aufbrichst: Paddeln und Tauchen, Ausdauer- und Atemkontrolle, Nahrungssuche und der Bau deines ersten sicheren Unterschlupfs.",
+          "href": "/guide/otterly-lost-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Beginne mit dem Tutorial und lerne das Paddeln an der Oberfläche, bevor du dich einer Strömung stellst."
+            },
+            {
+              "label": "2",
+              "detail": "Behalte beim Schwimmen und Tauchen Ausdauer, Hunger und Körpertemperatur im Blick."
+            },
+            {
+              "label": "3",
+              "detail": "Treib flussabwärts, um Ausdauer zu sparen, und ruh dich in Flusswirbeln aus, um neuen Atem zu holen."
+            },
+            {
+              "label": "4",
+              "detail": "Sammle Muscheln, Schalentiere und Flusskraut im flachen Wasser, bevor du tiefe Tauchgänge wagst."
+            },
+            {
+              "label": "5",
+              "detail": "Baue einen Unterschlupf auf hohem, trockenem Boden nahe ruhigem Wasser, damit du schlafen und Fortschritt speichern kannst."
+            },
+            {
+              "label": "6",
+              "detail": "Meide Uferräuber und Strömungsfallen, indem du Weißwasser früh erkennst."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Otterly Lost Komplettlösung",
+          "description": "Eine vollständige Route Kapitel für Kapitel durch die Geschichte, mit den wichtigen Quests, Umwelträtseln und versteckten Abkürzungen, die Otto nach Hause bringen.",
+          "href": "/guide/otterly-lost-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Kapitel 1: Whispering Shallows – Steuerung lernen, erstes Futter sammeln und die ersten Begleiter treffen."
+            },
+            {
+              "label": "2",
+              "detail": "Kapitel 2: Timber Dam und Feuchtgebietslabyrinth – Baumstammdämme und Auftriebsrätsel an Schleusentoren lösen."
+            },
+            {
+              "label": "3",
+              "detail": "Kapitel 3: Roaring Rapids und Canyon-Flume – schnelle Strömungen reiten und Felsgefahren umgehen."
+            },
+            {
+              "label": "4",
+              "detail": "Kapitel 4: Sunken Estuary und die Floß-Wiedervereinigung – die Reise beenden und das Floß wieder zusammenführen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Otterly Lost Sammel-Guide",
+          "description": "Ordnet jedes Sammelobjekt im Spiel, von Flussmuscheln und Haustier-Steinen bis zu Küstenbeeren und versteckten Schmuckstücken, samt Routen und Biomen, in denen sie erscheinen.",
+          "href": "/items/otterly-lost-shells",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Muscheln",
+              "detail": "Flussmuscheln sind die Hauptwährung; tauche nahe Felsen und Schilfbetten, um sie zu sammeln."
+            },
+            {
+              "label": "Haustier-Steine",
+              "detail": "Sammle gewichtsklassifizierte Steine aus Flussbetten und nutze sie für Druckplattenrätsel."
+            },
+            {
+              "label": "Beeren",
+              "detail": "Küstenbeeren stellen Ausdauer wieder her und lassen sich für lange Schwimmtouren zu Snacks verarbeiten."
+            },
+            {
+              "label": "Schmuckstücke",
+              "detail": "Versteckte Schmuckstücke schalten Bau-Upgrades und Handelsgeschäfte mit Flusskreaturen frei."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Otterly Lost Fähigkeiten-Guide",
+          "description": "Erklärt Ottos Bewegungsfähigkeiten, Werkzeuge und Upgrades, inklusive Paddeln, Tauchen, Tragen von Objekten und der fortgeschrittenen Wassertechnik, die neue Routen öffnet.",
+          "href": "/mechanics/otterly-lost-swim",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Paddeln",
+              "detail": "Steuere und baue Schwung auf; paddle flussabwärts, um schnell zu reisen, ohne Ausdauer zu verlieren."
+            },
+            {
+              "label": "Tauchen",
+              "detail": "Halte die Tauchtaste gedrückt, um versunkene Werkzeuge, Muscheln und verborgene Unterwassertunnel zu erreichen."
+            },
+            {
+              "label": "Tragen",
+              "detail": "Halte ein Objekt in den Pfoten, um Druckplatten zu beschweren oder Schalentiere zu knacken."
+            },
+            {
+              "label": "Uferrutschen",
+              "detail": "Schlammige Ufer dienen als Hochgeschwindigkeitsrutschen zwischen getrennten Flussarmen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Otterly Lost Charaktere-Guide",
+          "description": "Stellt Otto, die freundlichen Kreaturen, die du triffst, und die Begleiter auf der Reise vor, inklusive ihrer Geschichten, Rettungsquests und wie sie dir beim Erkunden helfen.",
+          "href": "/characters/otterly-lost-otto",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Otto",
+              "detail": "Otto ist der spielbare Flussotter, dessen Fähigkeiten und Ausdauer jede deiner Routen bestimmen."
+            },
+            {
+              "label": "Kaninchen",
+              "detail": "Das Waldkaninchen ist eine der ersten Kreaturen, mit denen du dich anfreunden und die du retten kannst."
+            },
+            {
+              "label": "Freunde",
+              "detail": "Begleiter öffnen Abkürzungen, tragen Gegenstände und helfen bei Hebel- und Schleusenrätseln."
+            },
+            {
+              "label": "Tiere",
+              "detail": "Gerettete Flusskreaturen erscheinen in allen Biomen und helfen bei Nahrungssuche und Navigation."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Otterly Lost Karten-Guide",
+          "description": "Ein navigationsorientiertes Modul zu den wichtigsten Regionen, Biomen, versteckten Pfaden und interessanten Orten, damit du eine Route planen kannst, statt blind zu treiben.",
+          "href": "/mechanics/otterly-lost-map",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Whispering Shallows",
+              "detail": "Tutorial-Region mit ruhigem Wasser, deinen ersten Muscheln und den einfachsten Bauplätzen."
+            },
+            {
+              "label": "Timber Dam",
+              "detail": "Gebiet aus Baumstammdamm und Feuchtgebietslabyrinth, in dem die Auftriebsrätsel beginnen."
+            },
+            {
+              "label": "Roaring Rapids",
+              "detail": "Schneller Canyon-Abschnitt voller Felsen, Strudel und Strömungsfallen."
+            },
+            {
+              "label": "Sunken Estuary",
+              "detail": "Letzte Flussregion mit tiefem Wasser, seltenen Sammelobjekten und der Floß-Wiedervereinigung."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Otterly Lost Erfolge-Guide",
+          "description": "Listet die 20 Steam-Erfolge des Spiels auf und gruppiert sie nach Schwierigkeit, damit Completionists wissen, welche natürlich freigeschaltet werden und welche einen gezielten Run erfordern.",
+          "href": "/release/otterly-lost-steam",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Story-Meilensteine – werden automatisch durch das Abschließen der vier Hauptkapitel verdient."
+            },
+            {
+              "label": "A",
+              "detail": "Erkundungs-Erfolge – decke jede Region auf und lichte den Kartennebel."
+            },
+            {
+              "label": "B",
+              "detail": "Sammel-Erfolge – finde alle Muscheln, Haustier-Steine und Schmuckstücke."
+            },
+            {
+              "label": "C",
+              "detail": "Herausforderungs-Erfolge – meistere Stromschnellen-Läufe und lange Tauchgänge ohne Ausdauerverlust."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Otterly Lost Updates-Guide",
+          "description": "Ein News- und Update-Bereich zu Demo, offiziellen Patches, Release-Informationen und Entwicklerankündigungen, damit du immer weißt, was sich am Fluss geändert hat.",
+          "href": "/release/otterly-lost-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Demo",
+              "detail": "Probiere die kostenlose Vertical Slice mit dem Tutorial aus Kapitel 1 und der Prolog-Geschichte."
+            },
+            {
+              "label": "Patches",
+              "detail": "Verfolge Balance-Anpassungen, Bugfixes und Verbesserungen der Schwimmphysik nach dem Launch."
+            },
+            {
+              "label": "Launch",
+              "detail": "Release-Fenster, Plattform-Zertifizierung und Neuigkeiten zur Store-Seiten-Lokalisierung."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Entwickler-Devlogs zu neuen Biomen, Koop-Features und Barrierefreiheitsoptionen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Otterly Lost.",
+      "items": [
+        {
+          "question": "Was ist Otterly Lost?",
+          "answer": "Otterly Lost ist ein gemütliches Singleplayer-Abenteuer von Soulworks Interactive. Du spielst Otto, einen Flussotter, der von seinem Familienfloß getrennt wird und sich schwimmend, tauchend und sammelnd durch vier verbundene Flussregionen nach Hause kämpfen muss."
+        },
+        {
+          "question": "Ist Otterly Lost ein Kampfspiel?",
+          "answer": "Nein. Otterly Lost hat keinen Kampf, keine Lebensbalken und keine dauerhaften Niederlagen. Die Herausforderung liegt darin, Strömungen zu lesen, Tauchgänge zu timen und Auftriebs- sowie Schleusenrätsel zu lösen. Wenn dich eine Strömung vom Kurs reißt, setzt dich der Fluss in einem ruhigen Becken in der Nähe wieder ab."
+        },
+        {
+          "question": "Kann man Otterly Lost im Koop spielen?",
+          "answer": "Ja. Otterly Lost unterstützt Koop-Flusssitzungen, in denen Spieler Pfote an Pfote ein Floß bilden, Sammeltouren teilen und sich für Hebel- und Schleusenrätsel aufteilen. Die Story-Kampagne selbst ist als fokussierte Singleplayer-Expedition konzipiert."
+        },
+        {
+          "question": "Was sind die wichtigsten Sammelobjekte in Otterly Lost?",
+          "answer": "Die wichtigsten Sammelobjekte in Otterly Lost sind Flussmuscheln, Haustier-Steine, Küstenbeeren und versteckte Schmuckstücke. Muscheln dienen als Währung, Haustier-Steine lösen Druckplattenrätsel, Küstenbeeren stellen Ausdauer wieder her und Schmuckstücke schalten Bau-Upgrades frei."
+        },
+        {
+          "question": "Wie lange dauert es, Otterly Lost durchzuspielen?",
+          "answer": "Ein entspannter erster Durchlauf von Otterly Lost dauert meist etwa 3 bis 5 Stunden. Mit einer Komplettlösung lässt sich das auf rund 2 Stunden verkürzen, während ein vollständiger 100%-Sammelrun in der Regel etwa 6 Stunden dauert."
+        },
+        {
+          "question": "Wo kann ich Otterly Lost spielen?",
+          "answer": "Otterly Lost ist auf Steam für PC erhältlich, mit einer kostenlosen Demo, die das Tutorial aus Kapitel 1 abdeckt. Es läuft gut auf dem Steam Deck, und DRM-freie Stores wie GOG und itch.io sind ebenfalls gute Optionen für Offline-Spiel."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Otto nach Hause zu helfen?",
+      "description": "Von deinem ersten Tauchgang bis zu jedem versteckten Sammelobjekt – unser Community-Wiki bietet dir kostenlose, aktuelle Otterly Lost Guides.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Otterly Lost Guides & Komplettlösungen",
+    "overviewDescription": "Schritt-für-Schritt Anfänger-Guides, Tipps und eine vollständige Komplettlösung für die Flussnavigation und deine ersten Stunden in Otterly Lost."
+  },
+  "release": {
+    "overviewTitle": "Otterly Lost Release-Datum & Updates",
+    "overviewDescription": "Release-Datum, Demo-Details, Preis, Trailer und Steam-News zu Otterly Lost, damit du kein Launch-Update verpasst."
+  },
+  "platforms": {
+    "overviewTitle": "Otterly Lost Plattformen & Verfügbarkeit",
+    "overviewDescription": "Wo du Otterly Lost spielen kannst, inklusive Nintendo Switch, PS5, Xbox und Mac-Verfügbarkeit."
+  },
+  "mechanics": {
+    "overviewTitle": "Otterly Lost Spielmechaniken",
+    "overviewDescription": "Karte, Schwimmen, Steine sammeln, Koop- und Multiplayer-Mechaniken von Otterly Lost an einem Ort erklärt."
+  },
+  "characters": {
+    "overviewTitle": "Otterly Lost Charaktere & Tiere",
+    "overviewDescription": "Lerne die Charaktere und Tiere von Otterly Lost kennen, von Otto und Bunny bis zu den Freunden entlang des Flusses."
+  },
+  "items": {
+    "overviewTitle": "Otterly Lost Gegenstände & Sammelobjekte",
+    "overviewDescription": "Finde jedes Sammelobjekt in Otterly Lost, darunter Muscheln, Haustier-Steine, Küstenbeeren und Schmuckstücke."
+  },
+  "community": {
+    "overviewTitle": "Otterly Lost Community & Rezensionen",
+    "overviewDescription": "Community-Hubs, Spielerrezensionen und Diskussionen darüber, wo man Otterly Lost spielen kann."
+  },
+  "features": {
+    "overviewTitle": "Otterly Lost Spiel-Features",
+    "overviewDescription": "Entdecke das gemütliche Design, die offene Flusswelt und die Erkundungsfeatures, die das Abenteuer von Otterly Lost ausmachen."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnSteam": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Otterly Lost Wiki",
+    "about": "Das Otterly Lost Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Erkundungsrouten, Sammelobjekten, Erfolgen, Charakteren und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Otterly Lost Wiki. Nicht mit Soulworks Interactive verbunden.",
+    "description": "Gemütliches Seeotter-Abenteuer auf Steam. Erkunde, löse Rätsel, sammle Gegenstände und finde deinen Weg nach Hause.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizielles YouTube",
+    "vvBuilder": "Offizielle Website",
+    "beginnerGuide": "Anfänger-Guide",
+    "raceGuides": "Erkundungs-Guides",
+    "bossGuides": "Sammelobjekte & Gegenstände",
+    "buildGuide": "Erfolge-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
