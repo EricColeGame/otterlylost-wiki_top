@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "platforms": "Platforms",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "items": "Items",
+    "community": "Community",
+    "features": "Features"
   },
   "home": {
     "meta": {
@@ -417,7 +425,38 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Otterly Lost Guides & Walkthroughs",
+    "overviewDescription": "Step-by-step Otterly Lost beginner guides, tips, and a full walkthrough for navigating the river and surviving your first hours."
+  },
+  "release": {
+    "overviewTitle": "Otterly Lost Release Date & Updates",
+    "overviewDescription": "Otterly Lost release date, demo details, price, trailers, and Steam news so you never miss a launch update."
+  },
+  "platforms": {
+    "overviewTitle": "Otterly Lost Platforms & Availability",
+    "overviewDescription": "Where to play Otterly Lost, including Nintendo Switch, PS5, Xbox, and Mac availability."
+  },
+  "mechanics": {
+    "overviewTitle": "Otterly Lost Game Mechanics",
+    "overviewDescription": "Otterly Lost map, swimming, rock collecting, co-op, and multiplayer mechanics explained in one place."
+  },
+  "characters": {
+    "overviewTitle": "Otterly Lost Characters & Animals",
+    "overviewDescription": "Meet Otterly Lost's characters and animals, from Otto and Bunny to the friends you meet along the river."
+  },
+  "items": {
+    "overviewTitle": "Otterly Lost Items & Collectibles",
+    "overviewDescription": "Track down every Otterly Lost collectible, including shells, pet rocks, shoreberries, and trinkets."
+  },
+  "community": {
+    "overviewTitle": "Otterly Lost Community & Reviews",
+    "overviewDescription": "Otterly Lost community hubs, player reviews, and where-to-play discussions from around the web."
+  },
+  "features": {
+    "overviewTitle": "Otterly Lost Game Features",
+    "overviewDescription": "Explore Otterly Lost's cozy design, open-world river, and exploration features that define the adventure."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
